@@ -8,4 +8,4 @@ def multiply(x, y):
     else:
         return x + multiply(x, y - 1)
 
-print(multiply(3, 5));
+print(multiply(8, 7));
